@@ -1,0 +1,8 @@
+Facebook Login Page TEST SCENARIO:
+
+1.Verify that the password textbox is present on the UI login page.
+2.Verify that the username textbox is present on the UI login page.
+3.Verify that the login button is present on the UI login page.
+4.Verify the Facebook sign-in by entering a valid email address and valid password 
+5.Check the Facebook login by entering a valid mobile number and valid password 
+6.Verify whether the system redirects users to the Facebook home page or not after successful login 
